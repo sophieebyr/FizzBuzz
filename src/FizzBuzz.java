@@ -11,7 +11,7 @@ class FizzBuzz {
         }
     }
 
-    private static int doFizzBuzz(int i) {
+    public static int doFizzBuzz(int i) {
         //for (int i = 1; i < 100; i++) {
         // for every integer starting at 1 and less than 100, go onto the next one
 
